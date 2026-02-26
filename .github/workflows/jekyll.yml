@@ -22,13 +22,10 @@ jobs:
           bundler-cache: true
 
       - name: Install dependencies
-        run: |
-          gem install bundler
-          gem install jekyll -v 4.4.1
-          gem install jekyll-remote-theme 
+        run: bundle install
 
       - name: Build site
-        run: jekyll build
+        run: bundle exec jekyll build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
