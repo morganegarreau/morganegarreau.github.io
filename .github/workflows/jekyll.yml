@@ -23,8 +23,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          gem install jekyll bundler
-          gem install minimal-mistakes-jekyll
+          gem install bundler
+          gem install jekyll -v 4.4.1
+          gem install jekyll-remote-theme 
 
       - name: Build site
         run: jekyll build
