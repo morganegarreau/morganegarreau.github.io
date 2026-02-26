@@ -1,0 +1,26 @@
+/* Centrer la section auteur et les liens */
+.author-profile,
+.author-profile.author-links {
+    text-align: left;
+}
+
+/* Photo auteur – enlever arrondis et bordure/thème */
+.u-photo {
+    width: 100%;      /* ou max-width: 100% pour adapter */
+    border-radius: 0 !important;   /* coins carrés */
+    border: none !important;       /* supprimer bordure éventuelle */
+    box-shadow: none !important;   /* supprimer ombre éventuelle */
+    display: block;
+}
+
+
+@media (min-width: 1024px) {
+  .page {
+    display: grid;
+    grid-template-columns: 850px 1fr; /* 300px sidebar + reste */
+  }
+
+  .page__content {
+    max-width: 100% !important;
+  }
+}

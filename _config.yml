@@ -1,0 +1,38 @@
+title: "Home"
+email: ""
+description: ""
+theme: minimal-mistakes-jekyll
+
+author:
+  name: "Morgane Garreau"
+  avatar: "/assets/images/photo.png"
+  bio: >
+    <p>Post-doc in Biomechanics
+    <p><i class="fas fa-university"></i> INRIA Saclay Center </p>
+    <p><i class="fas fa-envelope"></i> firstname.lastname@inria.fr</p>
+  links:
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0001-8242-6539"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ZXhoEPgAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/morgane-garreau-60235a9a/"
+
+# Menu principal
+header_pages:
+  - /research/
+  - /teaching/
+  - /cv/
+
+include:
+  - _pages
+
+feed:
+  path: ""
+
+sass:
+  style: compressed
+
