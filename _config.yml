@@ -1,7 +1,9 @@
 title: "Home"
 email: ""
 description: ""
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
 
 author:
   name: "Morgane Garreau"
