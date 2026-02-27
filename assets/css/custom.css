@@ -14,13 +14,21 @@
 }
 
 
-@media (min-width: 1024px) {
+/*@media (min-width: 1024px) {
   .page {
     display: grid;
     grid-template-columns: 850px 1fr; /* 300px sidebar + reste */
-  }
+/*  }
 
   .page__content {
     max-width: 100% !important;
   }
+}*/
+
+.page {
+  max-width: 1200px;
+}
+
+.page__content {
+  max-width: 1000px;
 }
