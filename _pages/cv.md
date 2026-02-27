@@ -28,7 +28,7 @@ You can find my resume <a href="../assets/Resume_GARREAU_Morgane.pdf">here</a> (
           <li>Spring 2017: 3-month volunteering in Vietnam</li>
           <li>Fall 2016: 6-month internship at Julius Wolff Institut (JWI), La Charité, Berlin </li>
         </ul>
-      </li>/
+      </li>
 
       <li>2014–2016: Engineering student, ECM
         <ul>
