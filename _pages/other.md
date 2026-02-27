@@ -21,7 +21,9 @@ permalink: /other/
     </ul>
   </li>
   <li> During my PhD thesis:
+    <ul>
       <li> Organization of a scientific "murder mystery game": <a href="https://www.sciences-en-occitanie.fr/articles/esprit-critique-et-murder-party-une-combinaison-gagnante-ou-comment-allier-pedagogie-innovante-et-ouverture-a-l-esprit-critique">article</a> (in French) </li>
+    </ul>
   </li>
 </ul>
 
