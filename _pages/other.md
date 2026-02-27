@@ -29,11 +29,11 @@ permalink: /other/
 
 <p style="color: #006400;"><u><b>Member of the local sustainable development committee in INRIA Saclay</b></u></p>
 
-<p style="font-size: 18px;">Since December 2024, I am a member of the local sustainable development committee in INRIA Saclay. In particular, I followed a training to become a facilitator for the <a href="https://climatefresk.org/world/">Climate Fresk</a> and I hosted one Climate Fresk event for the center staff.</p>
+<p style="font-size: 18px;">Since December 2024, I am a member of the local sustainable development committee in INRIA Saclay center. In particular, I followed a training to become a facilitator for the <a href="https://climatefresk.org/world/">Climate Fresk</a> and I hosted one Climate Fresk event for the center staff.</p>
 
 <p style="color: #006400;"><u><b>Delegate of the scientific convention <a href="https://conventions.iesf.fr/convention-connaissances/home">"From the creation of knowledge to its reception by civil society"</a></b></u></p>
 
-<p style="font-size: 18px;">Between October 2025 and January 2026, I participated together with 49 PhD and PhD candidates in the scientific convention <a href="https://conventions.iesf.fr/convention-connaissances/home">"From the creation of knowledge to its reception by civil society"</a> proposed by the PhD committee of the federation "Ingénieurs et Scientifiques de France" (IESF). Conferences and debates, as well as collective gatherings and discussions were organized over four week-ends and multiple online webinars and meetings. Recommendations were formulated and voted during the last week-end and are available in the form of a report <a href="https://conventions.iesf.fr/convention-connaissances/travaux/rapport">here.</a> (in French).</p>
+<p style="font-size: 18px;">Between October 2025 and January 2026, I participated together with 49 PhD and PhD candidates in the scientific convention <a href="https://conventions.iesf.fr/convention-connaissances/home">"From the creation of knowledge to its reception by civil society"</a> proposed by the PhD committee of the "Ingénieurs et Scientifiques de France" (IESF) federation. Conferences and debates, as well as collective gatherings and discussions were organized over four week-ends and multiple online webinars and meetings. Recommendations were formulated and voted during the last week-end and are available as a report <a href="https://conventions.iesf.fr/convention-connaissances/travaux/rapport">here.</a> (in French).</p>
 
 
 
